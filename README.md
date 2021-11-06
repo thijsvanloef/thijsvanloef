@@ -3,7 +3,7 @@
 
 <a href="https://www.linkedin.com/in/thijsvanloef/" class="fancybox" target="_blank" rel="external"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" height="30" alt="LinkedIn" title="LinkedIn">
 </a>
-<a href="https://thijsvanloef.nl/" class="fancybox" target="_blank" rel="external"><img src="https://cdn-icons-png.flaticon.com/512/174/174881.png" width="30" height="30" alt="LinkedIn" title="LinkedIn">
+<a href="https://thijsvanloef.nl/" class="fancybox" target="_blank" rel="external"><img src="https://cdn-icons-png.flaticon.com/512/174/174881.png" width="30" height="30" alt="My Personal Website" title="My Personal Website">
 </a>
 
 <a href="https://github.com/thijsvanloef">
