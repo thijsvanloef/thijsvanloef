@@ -1,10 +1,11 @@
-## Hello There! :wave:
+# Hello There! :wave:
 
+## About me
 
-<a href="https://www.linkedin.com/in/thijsvanloef/" class="fancybox" target="_blank" rel="external"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" height="30" alt="LinkedIn" title="LinkedIn">
-</a>
-<a href="https://thijsvanloef.nl/" class="fancybox" target="_blank" rel="external"><img src="https://cdn-icons-png.flaticon.com/512/174/174881.png" width="30" height="30" alt="My Personal Website" title="My Personal Website">
-</a>
+* Owner @ [Obsurvatory](https://www.obsurvatory.com/)
+* Cloud Engineer @ [SIDN](https://www.sidn.nl/)
+
+## Stats
 
 <a href="https://github.com/thijsvanloef">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=thijsvanloef&show_icons=true&theme=dark&hide=stars" />
