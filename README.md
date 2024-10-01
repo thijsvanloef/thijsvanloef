@@ -3,7 +3,7 @@
 ## About me
 
 * Owner @ [Obsurvatory](https://www.obsurvatory.com/)
-* Cloud Engineer @ [SIDN](https://www.sidn.nl/)
+* Platform Engineer @ [TenneT](https://www.tennet.eu/)
 
 ## Stats
 
